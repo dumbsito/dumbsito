@@ -9,9 +9,9 @@
 ### 👨‍💻 About Me :
 - 📝 I regularly upload videos on [https://www.youtube.com/youdevs]
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
+- 💬 Ask me about **Javascript, Angular, Java, Springboot**
 
-- 📫 How to reach me **carlos.develops@gmail.com**
+- 📫 How to reach me **leandrolezcano@gmail.com**
 
 - 🌱 I'm currently learning **React.js, Blockchain, Web3 and Solidity**
 
