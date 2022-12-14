@@ -15,7 +15,6 @@
 
 - 🌱 I'm currently learning **React.js, Blockchain, Web3 and Solidity**
 
-- 🌐 Website [youdevs.com](youdevs.com)
 
 <div align="left">
     <h3>⛏ Languages and Tools: Frontend ⛏</h3>
