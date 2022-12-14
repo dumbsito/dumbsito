@@ -7,13 +7,13 @@
 ---
 
 ### 👨‍💻 About Me :
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs]
+- 📝 Some time ago I began to study programming in a self-taught way studying **HTML, CSS and Javascript**
+
+- 🌱 I'm currently learning **Angular, Back-end Development, SQL and API-REST**
 
 - 💬 Ask me about **Javascript, Angular, Java, Springboot**
 
 - 📫 How to reach me **leandrolezcano@gmail.com**
-
-- 🌱 I'm currently learning **React.js, Blockchain, Web3 and Solidity**
 
 
 <div align="left">
