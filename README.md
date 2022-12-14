@@ -1,7 +1,7 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200"/>
    <h1 align="center">Hi 👋, I'm Leandro</h1>
-   <h3 align="center">A little Autodidact developer from Argentina. I like learn some new always, code all day 🥰</h3>
+   <h3 align="center">A little Autodidact developer. I like learn some new always, code all day 🥰</h3>
 </div>
 
 ---
